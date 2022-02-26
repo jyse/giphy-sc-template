@@ -1,0 +1,6 @@
+Advanced Patterns for API Management in Large-Scale React Applications
+https://www.youtube.com/watch?v=DMB7YUSckys
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/

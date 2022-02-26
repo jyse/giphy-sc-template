@@ -1,0 +1,125 @@
+#### General styles of the app in boxy ###
+
+body {
+  background-color: #121212;
+  color: white;
+}
+
+body h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 26px;
+}
+
+body h2 {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}
+
+body p {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#### colors for button-wrapper ###
+.reactions {
+  background: linear-gradient(90deg, #43e0ff 0%, #456ffc 75%);
+}
+
+.entertainment {
+  background: linear-gradient(90deg, #456ffc 0%, #7145fc 69%);
+}
+
+.sports {
+  background: linear-gradient(90deg, #7145fc 0%, #a945fc 71%, #c445fc 92%);
+}
+
+.stickers {
+  background: linear-gradient(90deg, #c445fc 0%, #ef45fc 75%);
+}
+
+.artists {
+  background: linear-gradient(90deg, #ef45fc 0%, #fc45c5 62%);
+}
+
+.moreverticon {
+  background: linear-gradient(90deg, #fc45c5 0%, #fc4584 76%);
+}
+
+
+### colors for hover on menu-buttons ###
+.hover-reactions:hover {
+  background: linear-gradient(90deg, #43e0ff 0%, #456ffc 75%);
+}
+
+.hover-entertainment:hover {
+  background: linear-gradient(90deg, #456ffc 0%, #7145fc 69%);
+}
+
+.hover-sports:hover {
+  background: linear-gradient(90deg, #7145fc 0%, #a945fc 71%, #c445fc 92%);
+}
+
+.hover-stickers:hover {
+  background: linear-gradient(90deg, #c445fc 0%, #ef45fc 75%);
+}
+
+.hover-artists:hover {
+  background: linear-gradient(90deg, #ef45fc 0%, #fc45c5 62%);
+}
+
+.hover-moreverticon:hover {
+  background: linear-gradient(90deg, #fc45c5 0%, #fc4584 76%);
+}
+
+### Search container 
+
+# gradient background searchIcon 
+background: linear-gradient(30deg, #fc4584 6%, #fc4562 66%, #fca345 92%);
+
+
+### Borders at Stories section: 
+
+
+.line-top-purple {
+  background-color: #9933ff;
+}
+
+.line-middle-purple {
+  background-color: #6d24b7;
+}
+
+.line-bottom-purple {
+  background-color: #521d88;
+}
+
+.line-top-sunshine {
+  background-color: #d4ca4d;
+}
+.line-middle-sunshine {
+  background-color: #b4ac44;
+}
+.line-bottom-sunshine {
+  background-color: #938c37;
+}
+.line-top-turqoise {
+  background-color: #00ccff;
+}
+
+.line-middle-turqoise {
+  background-color: #18a6ca;
+}
+.line-bottom-turqoise {
+  background-color: #127189;
+}
+.line-top-bluepurple {
+  background-color: #6157ff;
+}
+
+.line-middle-bluepurple {
+  background-color: #4339c6;
+}
+
+.line-bottom-bluepurple {
+  background-color: #2f2888; 
+}
