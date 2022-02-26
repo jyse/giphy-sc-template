@@ -123,3 +123,30 @@ background: linear-gradient(30deg, #fc4584 6%, #fc4562 66%, #fca345 92%);
 .line-bottom-bluepurple {
   background-color: #2f2888; 
 }
+
+
+
+.overlay-purple {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  height: 0;
+  transition: 0.5s ease;
+  background: linear-gradient(
+    0deg,
+    rgba(153, 51, 255, 0.8506838905775076) 7%,
+    rgba(224, 224, 224, 0) 30%
+  );
+}
+
+.overlay-turqoise {
+  background: linear-gradient(0deg, #00ccff 7%, #e0e0e000 30%);
+}
+.overlay-sunshine {
+  background: linear-gradient(0deg, #d4ca4d 7%, #e0e0e000 30%);
+}
+.overlay-bluepurple {
+   background: linear-gradient(0deg, #6157ff 7%, #e0e0e000 30%);
+}
